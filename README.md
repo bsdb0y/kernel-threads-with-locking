@@ -1,4 +1,6 @@
-#Kernel Threads with locking using spinlock
+# Kernel Threads with locking using spinlock
+
+
 It is a simple linux kernel module which implementing threads with proper
 locking using spinlock
 
